@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965650301921",
+    "project_id": "pim-sim",
+    "storage_bucket": "pim-sim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965650301921:android:482a0c6e3e5a40f25848a0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_node_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5TgLRNN58P97l5yKRXkPL9MnTfy_hqdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
